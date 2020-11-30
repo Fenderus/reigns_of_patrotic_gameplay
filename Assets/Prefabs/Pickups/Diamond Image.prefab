@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6224615031025427805}
   - component: {fileID: 136004089244516693}
   - component: {fileID: 8320955066302776605}
+  - component: {fileID: 3164496783936415667}
   m_Layer: 0
   m_Name: Diamond Image
   m_TagString: Untagged
@@ -120,7 +121,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 6224615031025427805}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 3164496783936415667}
+        m_TargetAssemblyTypeName: CoinAdd, Assembly-CSharp
+        m_MethodName: AddCoins
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &8320955066302776605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -134,3 +147,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 5512700157911273140, guid: 47ad84d9d15bb3145ad8b6f904890ef4, type: 3}
+--- !u!114 &3164496783936415667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 50710993460714475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ecb9f085e5e5444c88aaae9372583da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  value: 5

@@ -28,6 +28,17 @@ public class PlayerMovement : MonoBehaviour
 
     private void Start()
     {
+        //Load @ Start
+        PlayerData data = SaveSystem.Load();
+
+        moveSpeed = data.speed;
+
+        Vector2 position;
+        position.x = data.position[0];
+        position.y = data.position[1];
+        transform.position = position;
+
+
         rb = GetComponent<Rigidbody2D>();
 
         if(PlayerPrefs.HasKey("Speed")){

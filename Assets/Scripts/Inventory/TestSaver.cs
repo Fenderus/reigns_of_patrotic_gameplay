@@ -13,11 +13,15 @@ public class TestSaver : MonoBehaviour
 
     public GameObject slot1;
 
+    private ItemSpawn item;
+
     public Inventory inventory;
 
     // Start is called before the first frame update
     void Start()
     {
+        item = gameObject.GetComponent<ItemSpawn>();
+
         if(PlayerPrefs.HasKey("Inv1")){
             int1 = PlayerPrefs.GetInt("Inv1");
         }
@@ -39,7 +43,12 @@ public class TestSaver : MonoBehaviour
         }  
 
         //Bool ifs
-        
+        if(inventoryfull1 == true){
+            item.GetComponent<ItemSpawn>().SaveThis();
+        }else{
+            
+        }
+
     }
 
 
