@@ -1,0 +1,1051 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '2021.1.0a6 (0722b711ea8f) revision 467639'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19041.630; Version 2004; 64bit' Language: 'en' Physical Memory: 12163 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\2021.1.0a6\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Games/Unity/Reigns of Patriatic Gameplay
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62670
+Successfully changed project path to: D:/Games/Unity/Reigns of Patriatic Gameplay
+D:/Games/Unity/Reigns of Patriatic Gameplay
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 77.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0a6 (0722b711ea8f)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/2021.1.0a6/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Games/Unity/Reigns of Patriatic Gameplay/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5921)
+    Vendor:   
+    VRAM:     6081 MB
+    Driver:   25.20.100.6444
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/2021.1.0a6/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/2021.1.0a6/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity/2021.1.0a6/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56500
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/2021.1.0a6/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/Unity/2021.1.0a6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002165 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 122.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.087 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001288 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 73.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.644 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1988 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 225.1 MB.
+System memory in use after: 225.0 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2442.
+Total: 3.784000 ms (FindLiveObjects: 0.339500 ms CreateObjectMapping: 0.160900 ms MarkObjects: 3.100300 ms  DeleteObjects: 0.180800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Artwork/Tileset 2
+  artifactKey: Guid(c32bb857d20a5ef4f8744ad7db417e0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2 using Guid(c32bb857d20a5ef4f8744ad7db417e0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657e474faf4e41c30a2f7d8c1311fd05') in 0.011882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.386302 seconds.
+  path: Assets/Artwork/Tileset 2/cave.png
+  artifactKey: Guid(21b6f746b03643f48bc684c3e5c2ecbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/cave.png using Guid(21b6f746b03643f48bc684c3e5c2ecbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a67df0107119e20476a8d9246fc5af') in 0.267976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.959889 seconds.
+  path: Assets/Artwork/Tileset 2/Inner.png
+  artifactKey: Guid(09483880df3357541b2abc652604c20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/Inner.png using Guid(09483880df3357541b2abc652604c20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a26898908c463353010b7110882eb9') in 0.042656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.878614 seconds.
+  path: Assets/Artwork/Tileset 2/log.png
+  artifactKey: Guid(240e070ca4394bb4892f6da5498f720e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/log.png using Guid(240e070ca4394bb4892f6da5498f720e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e6d0be36a5fd74c8a5bef293218f89') in 0.037262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.181300 seconds.
+  path: Assets/Artwork/Tileset 2/NPC_test.png
+  artifactKey: Guid(636d74dc9ef0d6b49bdc61fec8a0c484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/NPC_test.png using Guid(636d74dc9ef0d6b49bdc61fec8a0c484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1699c1d362cf6618c3cdc8baec9e983f') in 0.034451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.801291 seconds.
+  path: Assets/Artwork/Tileset 2/objects.png
+  artifactKey: Guid(15522551e5149c14ea80e1e3d688f6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/objects.png using Guid(15522551e5149c14ea80e1e3d688f6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a57defd937abae12db394eeb32688b7') in 0.050241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.732017 seconds.
+  path: Assets/Artwork/Tileset 2/Overworld.png
+  artifactKey: Guid(4565e27494e324c419b3daced0744b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/Overworld.png using Guid(4565e27494e324c419b3daced0744b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a97e4635f99d5f9aad0c9179096aab') in 0.045888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.355398 seconds.
+  path: Assets/Artwork/Tileset 2/Overworld.png
+  artifactKey: Guid(4565e27494e324c419b3daced0744b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/Overworld.png using Guid(4565e27494e324c419b3daced0744b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b2b074e35ae270bd29dfc78f2a4f2f') in 0.060477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.630100 seconds.
+  path: Assets/Artwork/Tileset 2/Overworld.png
+  artifactKey: Guid(4565e27494e324c419b3daced0744b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/Overworld.png using Guid(4565e27494e324c419b3daced0744b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce162361a8d765aca4b6a96107857dc1') in 3.491434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 469.693119 seconds.
+  path: Assets/Artwork/Tileset 2/Overworld.png
+  artifactKey: Guid(4565e27494e324c419b3daced0744b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/Overworld.png using Guid(4565e27494e324c419b3daced0744b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34251d61cf33ed772fad336889d114f') in 3.156555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 376.750621 seconds.
+  path: Assets/Artwork/Tileset 2/character.png
+  artifactKey: Guid(497e73e3c8243ad468fc7f1907d55cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/character.png using Guid(497e73e3c8243ad468fc7f1907d55cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c743945e4e8598b5ff130dee6410a1cb') in 0.049333 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003887 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.022 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1989 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 236.6 MB.
+System memory in use after: 236.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2610.
+Total: 4.160400 ms (FindLiveObjects: 0.360400 ms CreateObjectMapping: 0.147900 ms MarkObjects: 3.468800 ms  DeleteObjects: 0.181500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004448 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 236.4 MB.
+System memory in use after: 236.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2613.
+Total: 7.790800 ms (FindLiveObjects: 0.678100 ms CreateObjectMapping: 0.312800 ms MarkObjects: 5.768600 ms  DeleteObjects: 1.027500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3149.589832 seconds.
+  path: Assets/Artwork/Tilesets/object- layer (1).png
+  artifactKey: Guid(11279548256eff8448f29152a0df3c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tilesets/object- layer (1).png using Guid(11279548256eff8448f29152a0df3c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5611ea856375ab206a5d70f63ac252') in 0.124742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.376234 seconds.
+  path: Assets/Artwork/Tilesets/object- layer (1).png
+  artifactKey: Guid(11279548256eff8448f29152a0df3c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tilesets/object- layer (1).png using Guid(11279548256eff8448f29152a0df3c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42effdd0336aaaa2a7f6a1f5be5001d') in 0.718716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.065017 seconds.
+  path: Assets/Artwork/Tilesets/object- layer (1).png
+  artifactKey: Guid(11279548256eff8448f29152a0df3c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tilesets/object- layer (1).png using Guid(11279548256eff8448f29152a0df3c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403b13f4560981ef2533834e17760425') in 0.710152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 46.871822 seconds.
+  path: Assets/Artwork/Tilesets/treesv6_0 (1).psd
+  artifactKey: Guid(adb2b885288c21146b95a4c9ec4afce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tilesets/treesv6_0 (1).psd using Guid(adb2b885288c21146b95a4c9ec4afce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c7a7f38a34dc988c612f9ed4f713ea5') in 0.042282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.618036 seconds.
+  path: Assets/Artwork/Tilesets/treesv6_0 (1).psd
+  artifactKey: Guid(adb2b885288c21146b95a4c9ec4afce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tilesets/treesv6_0 (1).psd using Guid(adb2b885288c21146b95a4c9ec4afce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851701510e0527a62c95878bebb85160') in 0.889443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 79.675632 seconds.
+  path: Assets/Artwork/Tilesets/treesv6_0 (1).psd
+  artifactKey: Guid(adb2b885288c21146b95a4c9ec4afce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tilesets/treesv6_0 (1).psd using Guid(adb2b885288c21146b95a4c9ec4afce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ef47bc1c1b594d92dcc14a1d195530') in 0.877988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 127.543111 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin
+  artifactKey: Guid(0d3773740d508432e81fe6a5347a1e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin using Guid(0d3773740d508432e81fe6a5347a1e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0fd0a5f62f26d7773a1158e80666b9b') in 0.011794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.045299 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-3.png
+  artifactKey: Guid(a1938ef5e3ea44afd9b1ca7a23b8f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-3.png using Guid(a1938ef5e3ea44afd9b1ca7a23b8f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd384c21dbb21ed2a493a02575c4e0720') in 0.068627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.047282 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-1.png
+  artifactKey: Guid(03b3b03d94fe64ca991436d28accda10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-1.png using Guid(03b3b03d94fe64ca991436d28accda10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e23bb39b770d22a09474da7a997550') in 0.045938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.066777 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-4.png
+  artifactKey: Guid(601ee6102f54d41e9908ba8c8ade2173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-4.png using Guid(601ee6102f54d41e9908ba8c8ade2173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fa0c90eec7e856e84fb6275ba1c3d9') in 0.035008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.031709 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-2.png
+  artifactKey: Guid(bff474feb3ed041f0abe9d1ec39e3b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-2.png using Guid(bff474feb3ed041f0abe9d1ec39e3b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532f0722b8f5c7c27c064a092cb96885') in 0.035282 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002590 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.038 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1989 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 241.6 MB.
+System memory in use after: 241.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2767.
+Total: 5.286400 ms (FindLiveObjects: 0.414100 ms CreateObjectMapping: 0.199400 ms MarkObjects: 4.447200 ms  DeleteObjects: 0.223700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001582 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.644 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 241.4 MB.
+System memory in use after: 241.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2770.
+Total: 3.660400 ms (FindLiveObjects: 0.268200 ms CreateObjectMapping: 0.101300 ms MarkObjects: 3.146200 ms  DeleteObjects: 0.143100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 177.498477 seconds.
+  path: Assets/Artwork/Animated
+  artifactKey: Guid(8021874fcd4da39488f7c012a769d643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Animated using Guid(8021874fcd4da39488f7c012a769d643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a66a58ff72f76b522ae952e20e9a778') in 0.012152 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002220 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.163 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 241.5 MB.
+System memory in use after: 241.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2773.
+Total: 3.760100 ms (FindLiveObjects: 0.385000 ms CreateObjectMapping: 0.194000 ms MarkObjects: 3.031100 ms  DeleteObjects: 0.148000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 257.105254 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(e34a58a3dc3c4da4b905df9e29c3c892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(e34a58a3dc3c4da4b905df9e29c3c892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c17b9d70df3909d6db6ddff27e6e67') in 0.027593 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002418 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.244 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 241.7 MB.
+System memory in use after: 241.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2776.
+Total: 5.469200 ms (FindLiveObjects: 0.661100 ms CreateObjectMapping: 0.228100 ms MarkObjects: 4.250400 ms  DeleteObjects: 0.327600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001533 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.136 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 241.7 MB.
+System memory in use after: 241.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2779.
+Total: 3.567800 ms (FindLiveObjects: 0.305700 ms CreateObjectMapping: 0.151700 ms MarkObjects: 2.964500 ms  DeleteObjects: 0.144300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006246 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.924 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 241.8 MB.
+System memory in use after: 241.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2782.
+Total: 3.714700 ms (FindLiveObjects: 0.293000 ms CreateObjectMapping: 0.157500 ms MarkObjects: 3.119200 ms  DeleteObjects: 0.143500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001589 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.136 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 241.9 MB.
+System memory in use after: 241.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2785.
+Total: 5.363600 ms (FindLiveObjects: 0.275500 ms CreateObjectMapping: 0.112600 ms MarkObjects: 4.824500 ms  DeleteObjects: 0.149000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002370 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.843 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 242.0 MB.
+System memory in use after: 242.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2788.
+Total: 5.102200 ms (FindLiveObjects: 0.660100 ms CreateObjectMapping: 0.256600 ms MarkObjects: 3.910000 ms  DeleteObjects: 0.273300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1770.887502 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(e34a58a3dc3c4da4b905df9e29c3c892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(e34a58a3dc3c4da4b905df9e29c3c892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5fd20cc3c4746f8093b968f86869bf') in 0.021598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.088434 seconds.
+  path: Assets/Artwork/Tileset 2/font.png
+  artifactKey: Guid(0b9e636c85afaa748a8a539adf9ddd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Tileset 2/font.png using Guid(0b9e636c85afaa748a8a539adf9ddd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc78b81866bd4759a36e646d032fecb') in 0.120270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.512224 seconds.
+  path: Assets/Artwork/Circle.png
+  artifactKey: Guid(89c51e2170e5395429049c5075099a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/Circle.png using Guid(89c51e2170e5395429049c5075099a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e4d34fd5a107d9ab90fd8f059ba9a8') in 0.035121 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.109519 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.744 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1985 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 243.1 MB.
+System memory in use after: 243.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2826.
+Total: 4.667400 ms (FindLiveObjects: 0.318800 ms CreateObjectMapping: 0.145400 ms MarkObjects: 4.006700 ms  DeleteObjects: 0.194400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001888 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.015 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 243.1 MB.
+System memory in use after: 243.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2829.
+Total: 5.214100 ms (FindLiveObjects: 0.253700 ms CreateObjectMapping: 0.104100 ms MarkObjects: 3.974500 ms  DeleteObjects: 0.879600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.363496 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 6.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 25.490 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.3 MB.
+System memory in use after: 245.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2866.
+Total: 40.885800 ms (FindLiveObjects: 0.296700 ms CreateObjectMapping: 0.145700 ms MarkObjects: 33.907200 ms  DeleteObjects: 6.534100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.032664 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.827 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 27.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.4 MB.
+System memory in use after: 245.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2869.
+Total: 26.163500 ms (FindLiveObjects: 1.054400 ms CreateObjectMapping: 0.541600 ms MarkObjects: 9.918600 ms  DeleteObjects: 14.645800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.050683 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.612 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.5 MB.
+System memory in use after: 246.0 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2872.
+Total: 15.775700 ms (FindLiveObjects: 5.960200 ms CreateObjectMapping: 0.281800 ms MarkObjects: 6.534200 ms  DeleteObjects: 2.996200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.085762 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 12.315 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.6 MB.
+System memory in use after: 246.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2875.
+Total: 8.442400 ms (FindLiveObjects: 0.454500 ms CreateObjectMapping: 0.342800 ms MarkObjects: 6.826400 ms  DeleteObjects: 0.816000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004679 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 13.048 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.7 MB.
+System memory in use after: 246.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2878.
+Total: 18.405500 ms (FindLiveObjects: 1.566100 ms CreateObjectMapping: 0.384800 ms MarkObjects: 15.436500 ms  DeleteObjects: 1.014900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009593 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 16.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.8 MB.
+System memory in use after: 246.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2881.
+Total: 25.845300 ms (FindLiveObjects: 1.384100 ms CreateObjectMapping: 2.522900 ms MarkObjects: 18.066400 ms  DeleteObjects: 3.868200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.086679 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.442 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.9 MB.
+System memory in use after: 246.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2884.
+Total: 197.093500 ms (FindLiveObjects: 0.493700 ms CreateObjectMapping: 0.879800 ms MarkObjects: 16.702600 ms  DeleteObjects: 179.011600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003499 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 4.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.862 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 10.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 247.0 MB.
+System memory in use after: 246.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2887.
+Total: 42.015600 ms (FindLiveObjects: 0.496200 ms CreateObjectMapping: 0.555200 ms MarkObjects: 39.118800 ms  DeleteObjects: 1.842400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10802.012556 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f92d25c3585776093b07951585aaf9') in 0.047410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.903569 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(e34a58a3dc3c4da4b905df9e29c3c892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(e34a58a3dc3c4da4b905df9e29c3c892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60e44f1bf50f5622d9043b14807e163') in 0.025550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.403975 seconds.
+  path: Assets/Scripts/CoinData.cs
+  artifactKey: Guid(4bac3ad82f4ba984db9621b168c25cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CoinData.cs using Guid(4bac3ad82f4ba984db9621b168c25cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fac2cd56e9b4556d6074675ef6448d3') in 0.050827 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002764 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.110 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2031 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 247.1 MB.
+System memory in use after: 246.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2891.
+Total: 16.205700 ms (FindLiveObjects: 1.036500 ms CreateObjectMapping: 1.104200 ms MarkObjects: 12.965800 ms  DeleteObjects: 1.091400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004723 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.312 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2031 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 247.2 MB.
+System memory in use after: 246.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2894.
+Total: 7.194200 ms (FindLiveObjects: 0.565900 ms CreateObjectMapping: 0.245200 ms MarkObjects: 5.423300 ms  DeleteObjects: 0.955600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 358.667197 seconds.
+  path: Assets/Scripts/CoinData.cs
+  artifactKey: Guid(4bac3ad82f4ba984db9621b168c25cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CoinData.cs using Guid(4bac3ad82f4ba984db9621b168c25cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911ef99d64f0aa0567d60f754f977ddb') in 0.030569 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002811 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.343 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2031 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 247.2 MB.
+System memory in use after: 246.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2897.
+Total: 19.721100 ms (FindLiveObjects: 1.350100 ms CreateObjectMapping: 1.511400 ms MarkObjects: 15.574500 ms  DeleteObjects: 1.282900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.237642 seconds.
+  path: Assets/Scripts/CoinData.cs
+  artifactKey: Guid(4bac3ad82f4ba984db9621b168c25cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CoinData.cs using Guid(4bac3ad82f4ba984db9621b168c25cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac799d3e8e18db5697914011f5498d3c') in 0.020319 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005589 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.588 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2031 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.4 MB.
+System memory in use after: 245.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2900.
+Total: 18.526500 ms (FindLiveObjects: 0.821900 ms CreateObjectMapping: 0.304700 ms MarkObjects: 15.510100 ms  DeleteObjects: 1.887200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.339980 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(e34a58a3dc3c4da4b905df9e29c3c892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(e34a58a3dc3c4da4b905df9e29c3c892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '319535ca311598a6b3927f78d07861eb') in 0.030130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 82.800325 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/gem
+  artifactKey: Guid(66894622c69964b7e8388e21d3443aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/gem using Guid(66894622c69964b7e8388e21d3443aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32da3b659f17cd801df478677fd6fe33') in 0.361370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.099914 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/arrow.png
+  artifactKey: Guid(95406b6737b66479a80d172766f8bac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/arrow.png using Guid(95406b6737b66479a80d172766f8bac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb3ff8e7b1ae3a240a8455d7788ca698') in 0.509215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.489576 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-4.png
+  artifactKey: Guid(601ee6102f54d41e9908ba8c8ade2173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-4.png using Guid(601ee6102f54d41e9908ba8c8ade2173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c441d8ba8313b03156e14087f37f014a') in 0.094464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.140127 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-3.png
+  artifactKey: Guid(a1938ef5e3ea44afd9b1ca7a23b8f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-3.png using Guid(a1938ef5e3ea44afd9b1ca7a23b8f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbdbfd67afdc7e5d757f27e0a1d9e8ea') in 0.067527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.290782 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-1.png
+  artifactKey: Guid(03b3b03d94fe64ca991436d28accda10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-1.png using Guid(03b3b03d94fe64ca991436d28accda10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263b508474583acebf54ecf754ca425b') in 0.045362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.113043 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-2.png
+  artifactKey: Guid(bff474feb3ed041f0abe9d1ec39e3b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-2.png using Guid(bff474feb3ed041f0abe9d1ec39e3b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229c685634606ff2750a06fcdf98c84f') in 0.071983 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.306722 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(f975c334e0bd839498c2190dbb81dfb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(f975c334e0bd839498c2190dbb81dfb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931afd248808da19a68aa7c0da0b4bdf') in 0.027395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.406536 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc391bd726b4b3bd0dce9ab84225e303') in 0.073940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 338.407639 seconds.
+  path: Assets/Brackeys
+  artifactKey: Guid(61510c2fbc385ee40b187a7dc77f7c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys using Guid(61510c2fbc385ee40b187a7dc77f7c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87e6b1a17a32bc7ec2cdcf4949cd37e') in 0.053965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.496925 seconds.
+  path: Assets/Brackeys/2D Mega Pack
+  artifactKey: Guid(3f97bd75468a3704282bde6d8dcfaaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack using Guid(3f97bd75468a3704282bde6d8dcfaaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd8a1266db04f9e8c44e9ec418d352a') in 0.030114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.113808 seconds.
+  path: Assets/Brackeys/2D Mega Pack/-- Example Photos --
+  artifactKey: Guid(f7d7abb4a000bc947a5d02dbbac1b36f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/-- Example Photos -- using Guid(f7d7abb4a000bc947a5d02dbbac1b36f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2890e3cb052a9c949c34f1a83390b036') in 0.049626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.272237 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Food & Plants
+  artifactKey: Guid(44516c448b75181499979d1cb0ca4429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Food & Plants using Guid(44516c448b75181499979d1cb0ca4429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b12d2cee4c357ac444c5f231dc45976') in 0.042529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.133976 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Demo Scene.unity
+  artifactKey: Guid(773d3f5a575916841a8c1314199d515f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Demo Scene.unity using Guid(773d3f5a575916841a8c1314199d515f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b3faa011317cef1e8cde9c74daa8fa5') in 0.031208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.099117 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Enemies
+  artifactKey: Guid(92f04314ab1e01a4fae4487a854693e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Enemies using Guid(92f04314ab1e01a4fae4487a854693e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfe23fce5380d02af086439697392a1') in 0.067207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.095936 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Characters
+  artifactKey: Guid(d9b6c188ea84ee5449f418bc1623dfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Characters using Guid(d9b6c188ea84ee5449f418bc1623dfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d4303cd403cee21fbf2e1dff853a78') in 0.036326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.100595 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Backgrounds
+  artifactKey: Guid(32a6e3a01c461144e9231f98f40d26e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Backgrounds using Guid(32a6e3a01c461144e9231f98f40d26e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3133b12a412797060e2447d2dc125b21') in 0.038760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.125032 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Shapes
+  artifactKey: Guid(5aa468bcd40eb9d4391c1e9f62114c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Shapes using Guid(5aa468bcd40eb9d4391c1e9f62114c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d17863070ca88cb8bee7d7f20f1dfd3') in 0.038102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.144157 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds
+  artifactKey: Guid(9b2a41508a41b18458cac2ac00503323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds using Guid(9b2a41508a41b18458cac2ac00503323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40902272978e1fbf54fb1e2f177c6ae2') in 0.058447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.090761 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Extra
+  artifactKey: Guid(068753d67223aef418b7e739cce26ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Extra using Guid(068753d67223aef418b7e739cce26ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7227667c132e9c0fff874b54ecb41713') in 0.022587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.125303 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Platforms
+  artifactKey: Guid(77da0f55382552747959f630e2c5f983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Platforms using Guid(77da0f55382552747959f630e2c5f983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7198af3e61c51044a7a613589e7ecba4') in 0.051936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.144242 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Items & Icons
+  artifactKey: Guid(7822755117c5791489d825013b05771e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Items & Icons using Guid(7822755117c5791489d825013b05771e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4471a7518ff5618f96c24a451a7b7872') in 0.054025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.141249 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Environment
+  artifactKey: Guid(bca675569e8d6de4896e306c9d89550b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Environment using Guid(bca675569e8d6de4896e306c9d89550b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad062b8b8a55c7121ca0e7f88288fd2') in 0.123958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.174302 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Weapons & Tools
+  artifactKey: Guid(f9dbb76816c806545b90a9b41245c7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Weapons & Tools using Guid(f9dbb76816c806545b90a9b41245c7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b154521091cf6e05a0b170b2e7d04c') in 0.042746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.196872 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Effects
+  artifactKey: Guid(b0f3f6709c849c849a4397d379fd81d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Effects using Guid(b0f3f6709c849c849a4397d379fd81d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c34a3a67ef883b8e6c3b25ed1bae2212') in 0.029221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.113148 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/Click.wav
+  artifactKey: Guid(24d73765699ce3e46bb23cabc3a46494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/Click.wav using Guid(24d73765699ce3e46bb23cabc3a46494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c80ab169350e7d113f00b60413ba2a') in 0.808699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.082859 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav
+  artifactKey: Guid(558f9f56f603a954b8d45e17e89341d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav using Guid(558f9f56f603a954b8d45e17e89341d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94da6d54a7ca26ef2b5b0f9376fb0805') in 0.061941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.085100 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav
+  artifactKey: Guid(5ab8fc664ca4d604f820e255005a664a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav using Guid(5ab8fc664ca4d604f820e255005a664a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24ac633ecc5baaf643ededd0e0cc4ed') in 0.067742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.085929 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav
+  artifactKey: Guid(e7992d172691ce147bde04a9ea103f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav using Guid(e7992d172691ce147bde04a9ea103f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75893224c23cae0dac7e5425a29db116') in 0.130115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.225243 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav
+  artifactKey: Guid(00b18e15346f38a4e8535ac98e4ac9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav using Guid(00b18e15346f38a4e8535ac98e4ac9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a456ad5cbf2ac43887373e2844d6b9a7') in 0.100743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.082951 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav
+  artifactKey: Guid(a35ec44331d4b514cabf31e928f058b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav using Guid(a35ec44331d4b514cabf31e928f058b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011ee92d0fd9a26d0b3447737034b031') in 0.070957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.538721 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/Spawn.wav
+  artifactKey: Guid(c134bf6bd85561b4b938c913b97b57c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/Spawn.wav using Guid(c134bf6bd85561b4b938c913b97b57c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '218b665110b572dbc6e27cb088b4371b') in 0.228054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.152520 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/Shot.wav
+  artifactKey: Guid(26e19616f6ba9f6469e9d3d6c38b23fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/Shot.wav using Guid(26e19616f6ba9f6469e9d3d6c38b23fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0f7c60224bb9bd29a719299a81a585') in 0.098650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.159372 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav
+  artifactKey: Guid(33469e3f01006ba44bdcfb56b0e3e0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav using Guid(33469e3f01006ba44bdcfb56b0e3e0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5350f21258f0897e597342ad1af5ff') in 0.088885 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.123804 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/Hit.wav
+  artifactKey: Guid(87e2452fe2c754248926c9a9ab93a467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/Hit.wav using Guid(87e2452fe2c754248926c9a9ab93a467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0195bc0feacdda38b25a044b1f4a86d') in 0.073502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.091219 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/Whoosh.wav
+  artifactKey: Guid(2ebf2421dddc15a45b7fc6ae8197b1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/Whoosh.wav using Guid(2ebf2421dddc15a45b7fc6ae8197b1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c5ea4c4bca385f4d6f4af57c8b379f') in 0.474130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.141952 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav
+  artifactKey: Guid(2b6e306f144fd2047ad36490140f8b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav using Guid(2b6e306f144fd2047ad36490140f8b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4fa17a9b92008a9341c7ab3e77dc8e6') in 0.069127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.112156 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav
+  artifactKey: Guid(832aa39d4fbe053428a67083bb091a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav using Guid(832aa39d4fbe053428a67083bb091a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cff880ff311b9af9f6ac25098ead3d6') in 0.119450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.163172 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav
+  artifactKey: Guid(bd8857660a16ba549b8cc522d93d9117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav using Guid(bd8857660a16ba549b8cc522d93d9117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25d877a28c4b40ec06ae95a63a7957a') in 0.079106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.129335 seconds.
+  path: Assets/Brackeys/2D Mega Pack/Sounds/Explosion.wav
+  artifactKey: Guid(d1698dd553af8ef4d887bc83b9687173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/Sounds/Explosion.wav using Guid(d1698dd553af8ef4d887bc83b9687173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce4c11f63503161dc24082ed5fef9a6') in 0.164487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.183324 seconds.
+  path: Assets/Brackeys/2D Mega Pack/UI
+  artifactKey: Guid(72216c93e9f14c241a16086054be5744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brackeys/2D Mega Pack/UI using Guid(72216c93e9f14c241a16086054be5744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a35cadd116dd2abd1dc5c8e92f98604') in 0.017719 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004630 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Games\Unity\Reigns of Patriatic Gameplay\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 6.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.837 seconds
+Platform modules already initialized, skipping
