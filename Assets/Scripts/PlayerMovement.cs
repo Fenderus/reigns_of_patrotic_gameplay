@@ -94,6 +94,9 @@ public class PlayerMovement : MonoBehaviour
         if(coins == 0){
             AddMoney(0);
         }
+        if(Input.GetKeyDown(KeyCode.Q)){
+            TakeDamage(5);
+        }
     }
 
     private void FixedUpdate()
@@ -133,9 +136,28 @@ public class PlayerMovement : MonoBehaviour
         transform.position = position;
 
         //Load by built-in PlayerPrefs
-        PlayerPrefs.GetFloat("Speed");
-        PlayerPrefs.GetInt("CurrentCoins");
-        PlayerPrefs.GetInt("Health");
+        if(PlayerPrefs.HasKey("Speed")){
+            moveSpeed = PlayerPrefs.GetFloat("Speed");
+        }
+        else{
+            PlayerPrefs.SetFloat("Speed", moveSpeed);
+        }
+
+        if (PlayerPrefs.HasKey("CurrentCoins"))
+        {
+            coins = PlayerPrefs.GetInt("CurrentCoins");
+        }
+        else
+        {
+            PlayerPrefs.SetInt("CurrentCoins", coins);
+        }
+
+        if(PlayerPrefs.HasKey("Health")){
+            health = PlayerPrefs.GetInt("Health");
+        }
+        else{
+            PlayerPrefs.SetInt("Health", health);
+        }
     }
 
     public void IfAndroid(bool Isandroid){
@@ -155,7 +177,6 @@ public class PlayerMovement : MonoBehaviour
     public void AddMoney(int coinsToAdd)
     {
         coins += coinsToAdd;
-        PlayerPrefs.SetInt("CurrentCoins", coins);
         coinMeasure.text = "" + coins;
     }
 
@@ -163,5 +184,14 @@ public class PlayerMovement : MonoBehaviour
         health += healthToAdd;
         healthMeasure.text = "" + health;
         healthBar.SetHealth(health);
+    }
+
+    public void AddSpeed(int speedToAdd){
+        moveSpeed += speedToAdd;
+    }
+
+    public void DestroyMoney(int coinsToDestroy){
+        coins -= coinsToDestroy;
+        coinMeasure.text = "" + coins;
     }
 }
